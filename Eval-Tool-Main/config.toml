@@ -1,0 +1,12 @@
+[main]
+use proxies = False  # If you want to use this, put your proxies inside of data/proxies.txt (99% OF FREE PROXIES ARE BLOCKED BY DISCORD)
+use rpc = True  # Shows the module you are using, amount of tokens and proxies (main account not tokens)
+
+[headers]
+mode = "Desktop"  # You can use Desktop, Mobile, Browser (ONLY DESKTOP SUPPORTED ATM)
+custom user agent = ""  # Not needed at all but if you for some reason want to have a custom one you can
+custom xsuper props = ""  # Same as with custom user agent
+
+[dev]
+cfg version = "1.0"  # 
+
